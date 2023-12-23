@@ -16,3 +16,5 @@ https://github.com/explodinggradients/ragas
 
 
 https://colab.research.google.com/drive/1TZo2sgf1YFzI4_U-tGppg_ylHAR3MXF_?usp=sharing
+
+https://medium.com/@thakermadhav/build-your-own-rag-with-mistral-7b-and-langchain-97d0c92fa146
